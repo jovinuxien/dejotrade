@@ -1,4 +1,4 @@
-name := """scala-play-react-seed"""
+name := """scala-play-react-seed-coreui"""
 
 version := "1.0-SNAPSHOT"
 
